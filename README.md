@@ -5,3 +5,4 @@ TASK 1.3.1[CLICK HERE](https://www.hackerrank.com/challenges/ctci-comparator-sor
 TASK 1.3.2[CLICK HERE](https://www.hackerrank.com/challenges/java-comparator/problem)
 TASK 1.4.1[CLICK HERE](https://leetcode.com/problems/running-sum-of-1d-array)
 TASK 1.4.2[CLICK HERE](https://leetcode.com/problems/richest-customer-wealth/submissions/2105026157/)
+TASK 5.1[CLICK HERE](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105028684/)
